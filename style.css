@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@800&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Phudu', cursive;
+}
+
+.button{
+  width: 68px;
+  font-size: 20px;
+  padding: 18px;
+  margin: 0 5px;
+  border: 2px solid black;
+  border-radius: 17px;
+  cursor: pointer;
+}
+.row{
+  margin: 7px 0;
+}
+
+.row input{
+  font-size: 20px;
+  width: 310px;
+  margin: 0;
+  padding: 17px 2px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
